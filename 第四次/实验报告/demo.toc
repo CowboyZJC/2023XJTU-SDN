@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {\CJKnumber {1}、}实验目的}{3}{}%
+\contentsline {section}{\numberline {\CJKnumber {2}、}问题背景}{3}{}%
+\contentsline {section}{\numberline {\CJKnumber {3}、}基本实验理论}{4}{}%
+\contentsline {subsection}{\numberline {1.}拓扑感知}{4}{}%
+\contentsline {subsection}{\numberline {2.}链路发现原理}{4}{}%
+\contentsline {subsection}{\numberline {3.}沉默主机现象}{5}{}%
+\contentsline {subsection}{\numberline {4.}链路时延计算}{5}{}%
+\contentsline {section}{\numberline {\CJKnumber {4}、}必做题：链路时延测量}{6}{}%
+\contentsline {subsection}{\numberline {1.}测量LLDP Delay}{6}{}%
+\contentsline {subsection}{\numberline {2.}测量ECHO Delay}{7}{}%
+\contentsline {subsection}{\numberline {3.}计算总时延}{8}{}%
+\contentsline {subsection}{\numberline {4.}测量结果}{10}{}%
+\contentsline {section}{\numberline {\CJKnumber {5}、}选做题：容忍链路故障}{11}{}%
+\contentsline {subsection}{\numberline {1.}理论结果计算}{11}{}%
+\contentsline {subsection}{\numberline {2.}关键代码}{12}{}%
+\contentsline {subsection}{\numberline {3.}实验结果}{12}{}%
+\contentsline {section}{\numberline {\CJKnumber {6}、}实验感悟}{13}{}%
+\contentsline {section}{\numberline {\CJKnumber {7}、}附录}{13}{}%
+\contentsline {subsection}{\numberline {1.}networkawareness1.py}{13}{}%
+\contentsline {subsection}{\numberline {2.}shortest\_forward1.py}{18}{}%
